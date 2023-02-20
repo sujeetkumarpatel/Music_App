@@ -4,4 +4,5 @@
 
 
 
-![music_app](https://user-images.githubusercontent.com/125564357/219943410-394539b5-7ac1-4808-9dd1-4696171533bb.png)
+
+![music_app](https://user-images.githubusercontent.com/125564357/220180751-9504acd2-236a-49dd-a2f5-d572bc6a2142.png)
